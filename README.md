@@ -100,10 +100,6 @@ Arquivos meteorológicos de localidades próximas também foram mantidos para ap
 - Python
 - Google Colab
 - Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
 
 ---
 
